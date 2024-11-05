@@ -12,7 +12,7 @@ A WIP lightweight temperature and ram usage monitor inspired by [@devyn.johnston
 - run on startup.
 - change UI font.
 
-##TODO
+## TODO
 
 - Change UI scale
 - Change UI theme
