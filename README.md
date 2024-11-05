@@ -1,6 +1,6 @@
 # TempMon 
 
-A WIP lightweight temperature and ram usage monitor inspired by @devyn.johnston(https://www.youtube.com/@devyn.johnston) and his MSI after burner tutorial(https://www.youtube.com/watch?v=rRF6lW45c4c).
+A WIP lightweight temperature and ram usage monitor inspired by [@devyn.johnston](https://www.youtube.com/@devyn.johnston) and his MSI after burner [tutorial](https://www.youtube.com/watch?v=rRF6lW45c4c).
 
 
 ![TempMon](interface.gif)
@@ -13,7 +13,7 @@ A WIP lightweight temperature and ram usage monitor inspired by @devyn.johnston(
 - change UI font.
 
 On first run, it may take a second to initialise. Otherwise every other run after should be fine.
-The application was made depending on the Jetbrains Mono font(https://www.jetbrains.com/lp/mono/)
+The application was made depending on the Jetbrains Mono [font](https://www.jetbrains.com/lp/mono/)
 
 
 ## Contributing
