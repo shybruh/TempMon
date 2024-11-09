@@ -18,7 +18,7 @@ A WIP lightweight temperature and ram usage monitor inspired by [@devyn.johnston
 - Change UI theme
 - Add more stats
 
-On first run, it may take a second to initialise. Otherwise every other run after should be fine.
+On first run, it may take a second to initialize. Otherwise every other run after should be fine.
 The application was made depending on the Jetbrains Mono [font](https://www.jetbrains.com/lp/mono/)
 
 
