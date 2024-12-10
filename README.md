@@ -7,7 +7,7 @@ A WIP lightweight temperature and ram usage monitor inspired by [@devyn.johnston
 
 ## Features
 
-- always on top.
+- always on top. (needs to be fixed)
 - minimise to tray.
 - run on startup.
 - change UI font.
