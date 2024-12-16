@@ -1,3 +1,5 @@
+##currently being worked on. My apolocheeze
+
 # TempMon 
 
 A WIP lightweight temperature and ram usage monitor inspired by [@devyn.johnston](https://www.youtube.com/@devyn.johnston) and his MSI after burner [tutorial](https://www.youtube.com/watch?v=rRF6lW45c4c).
